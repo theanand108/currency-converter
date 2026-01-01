@@ -2,7 +2,7 @@
 
 A simple and elegant web-based currency converter that allows users to convert between different currencies using real-time exchange rates. Built with **HTML**, **CSS**, and **JavaScript**.
 
-![Screenshot](.Screenshot2025-07-20at2.19.10PM.png)
+![Screenshot](https://github.com/theanand108/currency-converter/blob/main/currency-converter/Screenshot%202025-07-20%20at%202.19.10%20PM.png)
 
 ---
 
