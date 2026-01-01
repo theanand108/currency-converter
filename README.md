@@ -1,4 +1,3 @@
-Screenshot 2025-07-20 at 2.19.10 PM.png
 # 💱 Currency Converter
 
 A simple and elegant web-based currency converter that allows users to convert between different currencies using real-time exchange rates. Built with **HTML**, **CSS**, and **JavaScript**.
